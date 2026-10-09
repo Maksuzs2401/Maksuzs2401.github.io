@@ -1,6 +1,6 @@
 ---
 title: "UAV-Mountable DFB laser based water vapor measurement system"
-excerpt: "<br/>>"
+excerpt: "Integration of a UAV-mounted water-vapor sensing payload and design of a laser-driver protection circuit at the Photonic Sensors Lab, IIT Gandhinagar.<br/>>"
 collection: portfolio
 ---
 
