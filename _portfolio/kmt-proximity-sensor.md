@@ -25,7 +25,7 @@ I built a test rig to prove reliability: a T-shaped moving rod 7 mm from the sen
 
 The sensor module was fitted on a designer tile machine, where it detects the position of the hydraulic press and signals the machine's controller. The units operated in a harsh industrial environment, with high temperatures and fine dust.
 
-<video controls src="sensor_field_testing.mp4" title="Title"></video>
+<video controls src="/files/sensor_field_testing.mp4" title="Title"></video>
 
 ## Pilot production
 
