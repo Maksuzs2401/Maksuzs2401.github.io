@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "S. De, S. Makwana, H. Meisheri, and A. L. Chakraborty, A hexacopter-mounted automated 1f WMS system for vertically-resolved measurement of ambient water vapour"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper presents results of vertically-resolved measurements of ambient water vapour over a football field within the IIT Gandhinagar campus. A hexacopter-mounted, fully automated and remotely accessible tunable diode laser absorption spectroscopy system was designed to carry out real-time measurements at a height of 100 ft (approximately 30 m).'
+date: 
+venue: '16th Int. Conference Photonics 2024, IIT KGP, India'
+slidesurl:
+paperurl: 
+bibtexurl: 
+citation:
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
