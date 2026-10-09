@@ -8,7 +8,7 @@ collection: portfolio
 
 I designed an inductive proximity sensor end to end: the analog circuit, the debugging, the validation rig, and the pilot production run. Additionally, I designed a logic converter module that can translate between any four type of PLC logic types. 
 
-![Finished sensor](images/sensormodule.jpeg)
+![Finished sensor](sensormodule.jpeg)
 
 ## Problems found and fixed
 - **Oscillator thermal drift** I solved it by fine tuning the BJT biasing inorder to get stable sine wave. 
