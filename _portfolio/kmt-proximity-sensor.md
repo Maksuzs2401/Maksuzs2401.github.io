@@ -7,7 +7,7 @@ collection: portfolio
 
 I designed an inductive proximity sensor end to end: the analog circuit, the debugging, the validation rig, and the pilot production run. Additionally, I designed a logic converter module that can translate between any four type of PLC logic types.
 
-![Finished sensor](/images/sensormodule.jpeg)
+<img src="/images/sensormodule.jpeg" alt="Endurance rig" style="max-width:560px; width:100%; height:auto; display:block; margin:1em auto;">
 
 ## Problems found and fixed
 

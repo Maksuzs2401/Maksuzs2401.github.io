@@ -32,5 +32,4 @@ This resulted in a publication of one conference paper (invited) and one journal
 
 ## Team 
 
-![team photo](<../images/PSL team photo.jpeg>)
-
+<img src="/images/PSL team photo.jpeg" alt="Endurance rig" style="max-width:560px; width:100%; height:auto; display:block; margin:1em auto;">
