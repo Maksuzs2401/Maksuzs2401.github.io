@@ -26,7 +26,7 @@ This resulted in a publication of one conference paper (invited) and one journal
 
 ## Protection circuit: design and testing
 
-- **Sensing:** [how current is sensed, such as a shunt resistor] read by a 16-bit ADC (ADS1115).
+- **Sensing:** The current values are transformed to voltage using a resisto and it is read by a 16-bit ADC (ADS1115).
 - **Trip logic:** at 115 mA the controller turns off a MOSFET and latches it off until a manual reset.
 - **Why this approach:** The design is simple and the threshold value can be easily changed for different laser controller requirements. 
 
