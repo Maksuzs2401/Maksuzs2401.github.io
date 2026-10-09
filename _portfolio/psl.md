@@ -6,7 +6,7 @@ collection: portfolio
 
 ## The system
 
-Measuring how water vapor changes with altitude needs a sensor that can fly. The lab uses wavelength-modulation spectroscopy (WMS): a DFB laser is tuned across a water absorption line near 1392 nm, and the absorption signal gives the water-vapor concentration. My part was the hardware that keeps the laser safe and the payload that carries it.
+Measuring how water vapor changes with altitude needs a sensor that can fly. The lab uses wavelength-modulation spectroscopy (WMS): a DFB laser is tuned across a water absorption line near 1392 nm, and the absorption signal gives the water-vapor concentration. My part was the hardware that keeps the laser safe and the payload that carries it.  
 
 ## My role
 I was the part of the Photonic Sensors Lab, IIT Gandhinagar where:
