@@ -27,7 +27,7 @@ The sensor module was fitted on a designer tile machine, where it detects the po
 
 <video controls muted playsinline preload="metadata"
        style="width:100%; max-width:560px; height:auto; display:block; margin:0 auto;">
-  <source src="/files/sensor_field_testing.mp4.mp4" type="video/mp4">
+  <source src="/files/sensor_field_testing.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 ## Pilot production
