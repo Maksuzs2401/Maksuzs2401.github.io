@@ -12,7 +12,7 @@ Measuring how water vapor changes with altitude needs a sensor that can fly. The
 I was the part of the Photonic Sensors Lab, IIT Gandhinagar where:
 - **I Built:** The laser-driver protection circuit, from design to bench testing.
 - **I contributed to:** Modifying the benchtop system and integrating the payload (laser driver, data acquisition, GSM module, power management) and the field trials.
-- **Worked with:** Prof. Arup Lal Chakraborty, Dr. Shruti De, Dr. Pratik Prajapati Hiteshi Meisheri.
+- **Worked with:** Prof. Arup Lal Chakraborty, Dr. Shruti De, Hiteshi Meisheri and Dr. Pratik Prajapati.
 
 
 ## Payload integration
